@@ -34,7 +34,7 @@
     color: rgba(102,252,241,1);
     position: absolute;
     top: 265px;
-    left: 70px;
+    left: 10%;
     font-family: Cairo;
     font-weight: Black;
     font-size: 56px;
@@ -46,7 +46,6 @@
     color: rgba(255,255,255,1);
     position: absolute;
     top: 455px;
-    left: 10%;
     font-family: Cairo;
     font-weight: Regular;
     font-size: 24px;

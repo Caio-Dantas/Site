@@ -134,7 +134,7 @@
       width: 80%;
       color: rgba(102,252,241,1);
       position: absolute;
-      top: 15%;
+      top: 10%;
       left: 10%;
       font-family: Cairo;
       font-weight: Black;
@@ -184,7 +184,7 @@
       background-size: cover;
       opacity: 1;
       position: absolute;
-      top: 55%;
+      top: 60%;
       left: 10%;
       overflow: hidden;
     }
@@ -197,7 +197,7 @@
       background-size: cover;
       opacity: 1;
       position: absolute;
-      top: 55.5%;
+      top: 62%;
       left: 40%;
       overflow: hidden;
     }

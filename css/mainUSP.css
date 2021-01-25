@@ -1,3 +1,193 @@
+
+/*MOBILE*/
+
+@media only screen and (max-width: 600px) {
+
+
+
+  * {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v8_1 {
+    width: 100%;
+    height: 943px;
+    background: linear-gradient(rgba(11,12,16,1), rgba(11,12,16,1));
+    opacity: 1;
+    position: absolute;
+    top: 1400px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_2 {
+    display: none;
+  }
+  .v7_6 {
+    width: 263px;
+    height: 263px;
+    background: url("../images/v7_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10%;
+    left: 89px;
+    overflow: hidden;
+  }
+  .v14_3 {
+    width: 100%;
+    height: 100%;
+    background: rgba(150,217,255,0.10000000149011612);
+    opacity: 1;
+    position: absolute;
+    top: 1170px;
+    left: 99px;
+    border-radius: 50%;
+  }
+  .v15_2 {
+    width: 100%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 361px;
+    left: 10%;
+    font-family: Cairo;
+    font-weight: Regular;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v36_2 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 680px;
+    left: 1399px;
+    border-radius: 50%;
+  }
+  .v36_3 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 741px;
+    left: 704px;
+    border-radius: 50%;
+  }
+  .v36_4 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 989px;
+    left: 301px;
+    border-radius: 50%;
+  }
+  .v36_5 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 87px;
+    left: 119px;
+    border-radius: 50%;
+  }
+  .v36_6 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 826px;
+    left: 57px;
+    border-radius: 50%;
+  }
+  .v36_7 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 926px;
+    left: 1065px;
+    border-radius: 50%;
+  }
+  .v36_8 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 953px;
+    left: 1669px;
+    border-radius: 50%;
+  }
+  .v36_9 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 414px;
+    left: 1773px;
+    border-radius: 50%;
+  }
+  .v36_10 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 496px;
+    left: 974px;
+    border-radius: 50%;
+  }
+  .v36_11 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 328px;
+    left: 347px;
+    border-radius: 50%;
+  }
+  .v36_12 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 127px;
+    left: 853px;
+    border-radius: 50%;
+  }
+  .v36_13 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 185px;
+    left: 1535px;
+    border-radius: 50%;
+  }
+  
+  }
+
+
+/*DESKTOP*/
+
+@media only screen and (min-width: 601px) {
+
+
+
 * {
   overflow-x: hidden;
   padding: 0px !important;
@@ -184,4 +374,6 @@
   top: 185px;
   left: 1535px;
   border-radius: 50%;
+}
+
 }

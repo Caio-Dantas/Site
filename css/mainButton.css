@@ -1,0 +1,35 @@
+.v1_92 {
+  width: 90px;
+  height: 70px;
+  background: url("../images/v1_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 820px;
+  left: 1049px;
+  overflow: hidden;
+}
+.v1_72 {
+  width: 100px;
+  height: 70px;
+  background: rgba(24,104,201,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_82   {
+  width: 284px;
+  color: rgba(229,229,229,1);
+  position: absolute;
+  bottom: -20px;
+  left: -90px;
+  font-family: Cairo;
+  font-weight: Black;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}

@@ -50,11 +50,11 @@
     width: 90%;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 30%;
+    top: 35%;
     left: 10%;
     font-family: Cairo;
     font-weight: Regular;
-    font-size: 32px;
+    font-size: 8vw;
     opacity: 1;
     text-align: left;
   }

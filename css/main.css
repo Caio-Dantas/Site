@@ -37,18 +37,19 @@
     left: 10%;
     font-family: Cairo;
     font-weight: Black;
-    font-size: 56px;
+    font-size: 14vw;
     opacity: 1;
     text-align: center;
   }
   .v1_6 {
-    width: 451px;
+    width: 80%;
     color: rgba(255,255,255,1);
     position: absolute;
     top: 455px;
+    left: 10%;
     font-family: Cairo;
     font-weight: Regular;
-    font-size: 24px;
+    font-size: 6vw;
     opacity: 1;
     text-align: center;
   }
@@ -92,10 +93,10 @@
     color: rgba(197,198,199,1);
     position: absolute;
     top: 34px;
-    left: 70%;
+    right: 10%;
     font-family: Cairo;
     font-weight: Light;
-    font-size: 36px;
+    font-size: 6vw;
     opacity: 1;
     text-align: center;
     text-decoration: none;

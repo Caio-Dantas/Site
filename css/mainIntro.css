@@ -28,7 +28,7 @@
     left: 8%;
     font-family: Cairo;
     font-weight: Regular;
-    font-size: 24px;
+    font-size: 6vw;
     opacity: 1;
     text-align: left;
   }
@@ -209,11 +209,11 @@
     width: 147px;
     color: rgba(102,252,241,1);
     position: absolute;
-    top: 16%;
-    left: 33%;
+    top: 18%;
+    left: 36%;
     font-family: Cairo;
     font-weight: Black;
-    font-size: 48px;
+    font-size: 8vw;
     opacity: 1;
     text-align: center;
   }
